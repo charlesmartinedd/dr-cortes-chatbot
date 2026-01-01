@@ -1,0 +1,18 @@
+# Dr. Carlos E. Cortes - Annotated Bibliography
+
+## PLACEHOLDER - PASTE BIBLIOGRAPHY CONTENT HERE
+
+The full 57+ work annotated bibliography was provided in the original conversation.
+Please paste that content here to enable the chatbot's knowledge base.
+
+## Sample format expected:
+
+1. CORTES, C. E. (1981). "The Role of Media in Multicultural Education."
+   Viewpoints in Teaching and Learning, 57(1), 38-49.
+   [Summary of the work and its significance]
+
+2. [Additional works...]
+
+---
+NOTE: This file will be loaded as the system context for the Dr. Cortes chatbot.
+The LLM will answer questions as Dr. Cortes based on this bibliography.

@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.env
+*.mp3
+voice_id.txt
+avatar_url.txt
